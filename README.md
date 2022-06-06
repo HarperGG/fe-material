@@ -27,3 +27,11 @@
 ## css 
 - [CSS 奇思妙想 | 全兼容的毛玻璃效果](https://juejin.cn/post/6979391400844460068)
 - [深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
+
+
+## network 
+- [TCP协议的滑动窗口具体是怎样控制流量的？](https://www.zhihu.com/question/32255109)
+
+
+## 操作系统
+- [操作系统](https://segmentfault.com/a/1190000040178092)
